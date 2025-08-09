@@ -1,6 +1,6 @@
 # Time-Master
 
-A stylish **Stopwatch + Clock** web app built with **Next.js (JavaScript only)** — no TypeScript. Responsive design, modern UI, and packed with features.
+A stylish **Stopwatch + Clock** web app built with **Next.js ** . Responsive design, modern UI, and packed with features.
 
 ## Features
 -  **Live Clock**: Current time in hours, minutes, seconds (12/24-hour toggle).
@@ -13,7 +13,7 @@ A stylish **Stopwatch + Clock** web app built with **Next.js (JavaScript only)**
 
 ## Tech Stack
 - **Framework**: Next.js (App Router, `app/` directory)
-- **Language**: JavaScript (no TS)
+- **Language**: JavaScript 
 - **Styling**: Tailwind CSS
 - **Timing logic**: React Hooks (`useState`, `useEffect`, `useRef`)
 - **State Persistence**: `localStorage`
